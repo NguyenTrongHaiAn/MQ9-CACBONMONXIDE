@@ -16,3 +16,5 @@ Cảm biến này với độ nhạy cao và thời gian đáp ứng nhanh. Tín
 Chân analog: Dùng để đo lường chính xác nồng độ khí, phù hợp cho các ứng dụng yêu cầu độ chính xác cao.  
 Chân digital: Dùng để phát hiện khí vượt ngưỡng định sẵn, phù hợp cho các ứng dụng đơn giản như báo động.
 
+![Alt text](![image](https://github.com/user-attachments/assets/569af833-c59c-46e7-bbb2-aebe14e37a2b)
+)
