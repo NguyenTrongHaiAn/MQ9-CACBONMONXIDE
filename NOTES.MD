@@ -9,6 +9,7 @@ Nhân với 5.0 để chuyển đổi sang điện áp (V).
     
 **RS_gas = (5.0 - sensor_volt) / sensor_volt;**  
 RS_gas là điện trở của cảm biến khi có khí. Công thức này dựa trên nguyên tắc Ohm và sự thay đổi điện áp trong cảm biến:  
+đây là công thức biến đổi của Vout và Vin khi có 2 điện trở 
   
 **ratio = RS_gas / R0;**  
 ratio là tỷ lệ giữa điện trở của cảm biến (RS_gas) và điện trở chuẩn (R0).  
