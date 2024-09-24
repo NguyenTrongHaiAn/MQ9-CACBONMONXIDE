@@ -13,4 +13,6 @@ Cảm biến này với độ nhạy cao và thời gian đáp ứng nhanh. Tín
 • Nhiệt độ hoạt động: -10C đến 50C.
 • Kích thước: 33 x 20 x 16mm.
 
+Chân analog: Dùng để đo lường chính xác nồng độ khí, phù hợp cho các ứng dụng yêu cầu độ chính xác cao.
+Chân digital: Dùng để phát hiện khí vượt ngưỡng định sẵn, phù hợp cho các ứng dụng đơn giản như báo động.
 
