@@ -1,5 +1,5 @@
 # MQ9-CACBONMONXIDE
-Cảm biến MQ-9 có thể phát hiện khí CO tập trung những nơi khác nhau từ 10 đến 1000ppm.
+Cảm biến MQ-9 có thể phát hiện khí CO tập trung những nơi khác nhau từ 10 đến 1000ppm.(1ppm là 1 phẩn tử trên 1 triệu phần tử đầu vào) 
 
 Cảm biến này với độ nhạy cao và thời gian đáp ứng nhanh. Tín hiệu ngõ ra dạng analog và digital. Cảm biến có thể hoạt động được ở nhiệt độ từ khoảng: -100C đến 500C và tiêu thụ dòng khoảng 150mA tại 5V.
 
@@ -12,3 +12,5 @@ Cảm biến này với độ nhạy cao và thời gian đáp ứng nhanh. Tín
 • Công suất tiêu thụ: khoảng 350mW.
 • Nhiệt độ hoạt động: -10C đến 50C.
 • Kích thước: 33 x 20 x 16mm.
+
+
