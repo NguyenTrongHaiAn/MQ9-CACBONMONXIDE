@@ -1,5 +1,5 @@
 const int BUZZER = 2;  // Chân kết nối còi báo động
-const int DO = 8;      // Chân đầu ra từ cảm biến-nối chân digital của MQ3
+const int DO = 8;      // Chân đầu ra từ cảm biến-nối với chân số 8
 
 void setup() {
     Serial.begin(9600);
